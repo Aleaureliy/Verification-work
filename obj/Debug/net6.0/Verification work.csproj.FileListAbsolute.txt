@@ -1,0 +1,15 @@
+C:\Users\Avalon\Desktop\geekbrains\Verification work\bin\Debug\net6.0\Verification work.exe
+C:\Users\Avalon\Desktop\geekbrains\Verification work\bin\Debug\net6.0\Verification work.deps.json
+C:\Users\Avalon\Desktop\geekbrains\Verification work\bin\Debug\net6.0\Verification work.runtimeconfig.json
+C:\Users\Avalon\Desktop\geekbrains\Verification work\bin\Debug\net6.0\Verification work.dll
+C:\Users\Avalon\Desktop\geekbrains\Verification work\bin\Debug\net6.0\Verification work.pdb
+C:\Users\Avalon\Desktop\geekbrains\Verification work\obj\Debug\net6.0\Verification work.csproj.AssemblyReference.cache
+C:\Users\Avalon\Desktop\geekbrains\Verification work\obj\Debug\net6.0\Verification work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Avalon\Desktop\geekbrains\Verification work\obj\Debug\net6.0\Verification work.AssemblyInfoInputs.cache
+C:\Users\Avalon\Desktop\geekbrains\Verification work\obj\Debug\net6.0\Verification work.AssemblyInfo.cs
+C:\Users\Avalon\Desktop\geekbrains\Verification work\obj\Debug\net6.0\Verification work.csproj.CoreCompileInputs.cache
+C:\Users\Avalon\Desktop\geekbrains\Verification work\obj\Debug\net6.0\Verification work.dll
+C:\Users\Avalon\Desktop\geekbrains\Verification work\obj\Debug\net6.0\refint\Verification work.dll
+C:\Users\Avalon\Desktop\geekbrains\Verification work\obj\Debug\net6.0\Verification work.pdb
+C:\Users\Avalon\Desktop\geekbrains\Verification work\obj\Debug\net6.0\Verification work.genruntimeconfig.cache
+C:\Users\Avalon\Desktop\geekbrains\Verification work\obj\Debug\net6.0\ref\Verification work.dll
